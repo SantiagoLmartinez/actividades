@@ -1,3 +1,3 @@
 # actividades
-actividades para ejercitar el cerebro
+Actividades para ejercitar el cerebro
 mostrando datos por consola
